@@ -2,7 +2,7 @@ import { A } from "@solidjs/router";
 
 export default function NotFound() {
   return (
-    <main class="text-center pt-10">
+    <main class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 text-center">
       <h1 class="text-4xl font-bold">404</h1>
       <h3 class="text-4xl font-bold my-10">(⊙_⊙)</h3>
       <p class="text-lg">
